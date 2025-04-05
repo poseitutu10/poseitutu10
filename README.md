@@ -8,6 +8,19 @@
   - [<b>HealthSquare: </b>Utilized React js to build frontend part of this project](https://health-square-by-phinehas.netlify.app/) <br />
   - [<b>FreshField: </b>Utilized React js to build frontend part of this project](https://freshfieldbyposeitutu10.netlify.app)<br />
 
+<h2>Skills</h2>
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTLM" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="60" height="60">
+  <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt="JavaScript" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="60">
+</span>
+
+
+
+
+
 
 <h2>📺 Elevator Pitch</h2>
 
@@ -16,7 +29,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Phinehas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Phinehas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" s />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/poseitutu10
