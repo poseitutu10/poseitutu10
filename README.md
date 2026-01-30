@@ -6,7 +6,6 @@
   - [<b>Bisame: </b> Utilized Next.js and TypeScript to build web app](https://bisame.com/) <br />
   - [<b>Event Pulse (Volunteer): </b>Utilized React js to build frontend part of this project](https://event-pulse.com/) <br />
   - [<b>HealthSquare: </b>Utilized React js to build frontend part of this project](https://health-square-by-phinehas.netlify.app/) <br />
-  - [<b>FundWeave: </b> Utilized React.js to build frontend part of this project](https://fundweave.seveightech.com/) <br />
   - [<b>MattressHome: </b>Utilized React js to build frontend part of this project](https://mattresshomebyposeitutu10.netlify.app/) <br />
   - [<b>FreshField: </b>Utilized React js to build frontend part of this project](https://freshfieldbyposeitutu10.netlify.app)<br />
 
@@ -17,6 +16,9 @@
   <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt="JavaScript" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/TypeScript_Logo_%28Blue%29.svg" alt="TypeScript" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60" height="60" />
+
 </span>
 
 
