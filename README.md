@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Frontend Development Journey</b>
-  - [<b>FundWeave: </b> Utilized React js to build frontend part of this project](https://fundweave.seveightech.com/) <br />
-  - [<b>MattressHome: </b>Utilized React js to build frontend part of this project](https://mattresshomebyposeitutu10.netlify.app/) <br />
+  - [<b>Bisame: </b> Utilized Next.js and TypeScript to build web app](https://bisame.com/) <br />
+  - [<b>Event Pulse (Volunteer): </b>Utilized React js to build frontend part of this project](https://event-pulse.com/) <br />
   - [<b>HealthSquare: </b>Utilized React js to build frontend part of this project](https://health-square-by-phinehas.netlify.app/) <br />
+  - [<b>FundWeave: </b> Utilized React.js to build frontend part of this project](https://fundweave.seveightech.com/) <br />
+  - [<b>MattressHome: </b>Utilized React js to build frontend part of this project](https://mattresshomebyposeitutu10.netlify.app/) <br />
   - [<b>FreshField: </b>Utilized React js to build frontend part of this project](https://freshfieldbyposeitutu10.netlify.app)<br />
 
 <h2>Skills</h2>
